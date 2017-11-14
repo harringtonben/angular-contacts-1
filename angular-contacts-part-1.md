@@ -7,7 +7,7 @@
 
 ## Requirements
 
-1.  Project Setup
+####  1.  Project Setup
 * Set up a new project as you always have, with this general structure:
   ```
   |- javascripts/
@@ -40,7 +40,7 @@
   * public
 
 
-2. Routes
+####  2. Routes
 
 Set up each of these routes, each with a corresponding partial and controller. When I go to each route initailly, I should see "Hello, [Route Name]" in both the HTML and the console (hard-coded, just to make sure the route is fully working).
  > * login
@@ -48,6 +48,6 @@ Set up each of these routes, each with a corresponding partial and controller. W
  > * contacts/new
  > * contacts/favorites
 
-3. Deploy
+####  3. Deploy
 
 The app should be able to deploy to Firebase with no errors in the console. Put the link to your hosted project in your README as soon as you get it hosted. You don't have to have the full README yet, but get that link in there!
