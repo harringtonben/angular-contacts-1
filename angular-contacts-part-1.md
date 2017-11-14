@@ -50,4 +50,6 @@ Set up each of these routes, each with a corresponding partial and controller. W
 
 ####  3. Deploy
 
-The app should be able to deploy to Firebase with no errors in the console. Put the link to your hosted project in your README as soon as you get it hosted. You don't have to have the full README yet, but get that link in there!
+* The app should be able to deploy to Firebase with no errors in the console. 
+* Put the link to your hosted project in your README as soon as you get it hosted. You don't have to have the full README yet, but get that link in there!
+* Put the link in a comment in the PR to let us know you are done.
